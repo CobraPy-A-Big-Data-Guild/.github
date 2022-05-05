@@ -1,5 +1,5 @@
 # Seja bem-vindo(a) ao workspace de desenvolvimento colaborativo da CobraPy
-Repositório para os produtos e projetos analíticos da Livar.
+Repositório para os produtos e projetos analíticos da CobraPy.
 
 Como o repositório é organizado:
 
