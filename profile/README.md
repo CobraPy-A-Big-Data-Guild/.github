@@ -49,4 +49,4 @@ Exemplo visual da organização do diretório:
 
 Códigos devem ser escritos em inglês e o nome das pastas do diretório também!
 
-A linguagem principal utilizada é o Pyspark.
+A linguagem principal utilizada é o Python, frameworks flask e Django, infraestrutura Apache Spark, gestor de fluxo Asana e orquestrador de pipelines Apache Airflow.
